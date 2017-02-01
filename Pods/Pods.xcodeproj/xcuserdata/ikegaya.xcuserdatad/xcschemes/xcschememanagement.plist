@@ -24,16 +24,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ChatAppSampleTests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-ChatAppSampleUITests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -53,16 +43,6 @@
 			<true/>
 		</dict>
 		<key>D0581AF7BF4A6DA140D280B19ECC7BFF</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DB97943A7AA4253DCC0F6DD2A505F35B</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E7253DB41865A8450260BE0D36E8CD04</key>
 		<dict>
 			<key>primary</key>
 			<true/>

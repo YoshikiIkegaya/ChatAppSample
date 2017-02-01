@@ -12,14 +12,4 @@ target 'ChatAppSample' do
   pod 'Firebase/Core'
   pod 'JSQMessagesViewController'
 
-  target 'ChatAppSampleTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'ChatAppSampleUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
 end
